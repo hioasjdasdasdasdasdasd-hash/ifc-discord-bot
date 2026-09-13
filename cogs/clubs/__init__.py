@@ -1,0 +1,1 @@
+# Clubs cogs module
