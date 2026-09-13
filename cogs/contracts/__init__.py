@@ -1,0 +1,1 @@
+# Contracts cogs module
